@@ -1,0 +1,11 @@
+img{
+    height: 100%;
+    width: 100%;
+}
+body{
+    text-align: center;
+    background: linear-gradient(green,yellow)
+}
+h1{
+    font-family: cursive; 
+}
